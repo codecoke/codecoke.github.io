@@ -16,13 +16,13 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: codecoke
+    github:  codecoke
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: codecoke
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: codecoke
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
