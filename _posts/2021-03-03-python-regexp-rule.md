@@ -2,6 +2,8 @@
 layout: post
 title: "python regexp rule"
 categories: code
+author:
+- network
 ---
 
 ![regexp 1](/images/py-regexp-rule/regexp.png)
