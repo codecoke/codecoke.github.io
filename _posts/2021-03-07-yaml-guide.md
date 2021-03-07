@@ -7,6 +7,8 @@ categories: code
 
 Yet Another Markup Language
 
+[sample_yaml](sample_yaml_document.md)
+
 
 ## 基本语法规则
 - 大小写敏感
