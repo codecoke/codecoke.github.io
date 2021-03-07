@@ -88,31 +88,18 @@ Yaml 也允许另一种写法，将所有键值对写成一个行内对象。
 - Cat
 - Dog
 - Goldfish
-# => js
 # => [ 'Cat', 'Dog', 'Goldfish' ]
 
 -
  - Cat
  - Dog
  - Goldfish
-
  #=> [ [ 'Cat', 'Dog', 'Goldfish' ] ]
 
  animal: [Cat, Dog]
-
  #=>  animal: [ 'Cat', 'Dog' ] }
 
 ```
-
-## 纯量
-
-- 字符串
-- 布尔值
-- 整数
-- 浮点数
-- Null
-- 时间
-- 日期
 
 ## 复合结构
 
@@ -476,7 +463,7 @@ message: |
 <td>
 
   ```js
-  
+
 { 
   message : 
   '\n<p style="color: red">\n  段落\n</p>\n' 
