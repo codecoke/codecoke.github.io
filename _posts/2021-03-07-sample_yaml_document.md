@@ -1,7 +1,7 @@
 
+
 ```yaml
 
----
 # Collection Types ####################################################
 
 # http://yaml.org/type/map.html -----------#
